@@ -32,7 +32,7 @@ void tampilkanStatus(string nama, bool diterima) {
         cout << "diterima" << endl;
     }
     else {
-        cout << "tidak diterima" << endl;
+        cout << "tidak diterima"<< endl;
     }
 }
 
